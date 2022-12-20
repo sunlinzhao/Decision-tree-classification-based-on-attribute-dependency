@@ -1,5 +1,4 @@
 # author: xiaobei
-# -*- coding: utf-8 -*-
 """
 Aim:得到决策树的字典后，需要使用python来绘制对应的决策树figure
 输入决策树的字典，样例如下所示：
